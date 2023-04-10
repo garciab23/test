@@ -1,2 +1,2 @@
-rm -rf trashfolder
-
+#!/bin/bash
+sudo rm -rf trashfolder
